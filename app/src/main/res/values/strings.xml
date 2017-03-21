@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WidgetProperties</string>
+    <string name="but_str1">Click Button</string>
+    <string name="text1">Text Size</string>
+    <string name="text2">Text Color</string>
+    <string name="text3">Text Typeface</string>
+    <string name="text4">Text style</string>
+    <string name="text5">Text Single Line~Text Single Line~Text Single Line~Text Single Line~</string>
+</resources>
